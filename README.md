@@ -29,7 +29,7 @@ I am a deep-tech entrepreneur and engineer focused on building **Autonomous Syst
 ---
 
 ### 🤝 Connect with Me:
-- 💼 [LinkedIn]([https://www.linkedin.com/in/abdul-musawir-a9713a20b/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-musawir-a9713a20b/)
 - 🐦 [Twitter/X](https://x.com/Musawir_4)
 - 📧 [Email](abdulmusawir8191456@gmail.com)
 - 🚀 [Visit Auditly.ai](https://github.com/Musawir456/Auditly-AI)
