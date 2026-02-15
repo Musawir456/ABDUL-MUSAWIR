@@ -1,6 +1,6 @@
-# Hi there! I'm [ABDUL MUSAWIR] 👋 
+# Hi there! I'm [Abdul Musawir] 👋 
 
-### 🚀 Founder & CEO @Auditly.ai | AI/ML Engineer | IoT Specialist
+### 🚀 Founder & CEO @ Auditly.ai | AI/ML Engineer | IoT Specialist | Building AI SaaS & Autonomous Agents
 
 I am a deep-tech entrepreneur and engineer focused on building **Autonomous Systems** and **AI-driven Risk Engines**. Currently, I am scaling **Auditly.ai**, a SaaS platform that leverages LLMs to automate compliance and auditing for SMEs.
 
